@@ -1,0 +1,3 @@
+﻿  task3.cpp
+C:\Users\vanos\OneDrive\Рабочий стол\lab_16_17_Melnyc_Evgen_VT-22-1\task3\task3.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task3.vcxproj -> C:\Users\vanos\OneDrive\Рабочий стол\lab_16_17_Melnyc_Evgen_VT-22-1\x64\Debug\task3.exe

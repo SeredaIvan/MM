@@ -1,0 +1,5 @@
+﻿  task2.cpp
+C:\Users\vanos\OneDrive\Рабочий стол\lab_16_17_Melnyc_Evgen_VT-22-1\task2\task2.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanos\OneDrive\Рабочий стол\lab_16_17_Melnyc_Evgen_VT-22-1\task2\task2.cpp(74,19): warning C4101: 'dob2': unreferenced local variable
+C:\Users\vanos\OneDrive\Рабочий стол\lab_16_17_Melnyc_Evgen_VT-22-1\task2\task2.cpp(74,25): warning C4101: 'c': unreferenced local variable
+  task2.vcxproj -> C:\Users\vanos\OneDrive\Рабочий стол\lab_16_17_Melnyc_Evgen_VT-22-1\x64\Debug\task2.exe
